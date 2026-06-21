@@ -1,2 +1,14 @@
 # youbo-football-pages
-HTML page archive and documentation
+
+公开页面文件归档
+
+这里作为静态页面托管目录，记录每次发布后留下的页面文件。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
